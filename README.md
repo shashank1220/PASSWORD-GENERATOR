@@ -4,6 +4,12 @@ A simple, lightweight web-based password generator built with **HTML**, **CSS**,
 
 ---
 
+## 🚀 Live Demo
+
+🔗 [View the Password Generator Live](https://shashank1220.github.io/PASSWORD-GENERATOR/)
+
+---
+
 ##  Features
 
 - Generates secure random passwords of exactly 12 characters.
@@ -36,5 +42,6 @@ A simple, lightweight web-based password generator built with **HTML**, **CSS**,
 
 
 ## License
+
 
     This project is licensed under the MIT License—feel free to use, modify, or distribute it as you like.
